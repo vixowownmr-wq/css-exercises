@@ -1,5 +1,6 @@
 /* Add CSS Styling */
-.font {
+.noclick,
+.click {
     font-family: Helvetica, 'Times New Roman',sans-serif;
     font-size: 28px;
     
