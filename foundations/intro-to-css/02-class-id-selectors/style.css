@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.normal-text {
+    background-color: rgb(255, 0, 0, 0.3);
+    font-family: "Verdana", DejaVu Sans, sans-serif;
+}
+
+#second-text {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+    
+}
+
+.bigletter {
+    font-size: 24px;
+}
+
+.green {
+    background-color: rgb(0, 255, 0, 0.3);
+    font-size: 24px;
+    font-weight: bold;
+}
