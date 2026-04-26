@@ -27,15 +27,16 @@ body {
 .button-container {
   background: #e3f4ff;
   text-align: center;
-  padding: 25px;
+  padding: 8px;
 
 }
 
 button {
+  display:block;
   background: white;
   border: 1px solid #eee;
-  padding: 10px;
-  text-align: center;
-  display: block;
+  padding: 8px 24px;
+  margin: 0 auto;
+ 
   
 }
