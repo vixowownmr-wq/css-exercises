@@ -1,15 +1,28 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  text-align: center;
 }
 
 img {
   width: 100px;
   height: 100px;
 }
-
+/*Separar el titulo de los elementos agregando el margin bottom */
 .title {
   font-size: 36px;
   font-weight: 900;
+  margin-bottom: 32px;
+}
+/*Ajustar el espacio de que hay entre cada grupo "info" de elementos*/
+.info {
+  max-width: 200px;
+
+}
+/*Separar horizontalmente los grupos de elementos*/
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
 }
 
 /* do not edit this footer */
